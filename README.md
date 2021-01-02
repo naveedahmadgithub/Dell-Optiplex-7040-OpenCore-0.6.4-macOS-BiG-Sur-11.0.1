@@ -3,6 +3,7 @@
   macOS-BiG-Sur-11.0.1
 
 Successfully Installed BiG Sur on Dell Optiplex 7040 
+also Tested on macOS Catalina 10.15.7
 
 °Bios Setup
 
