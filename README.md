@@ -8,7 +8,7 @@
 
 °Bios Setup
 
-•F2 key interning in bios
+•F2 key intering in bios
 
 •Default Factory reset
 
