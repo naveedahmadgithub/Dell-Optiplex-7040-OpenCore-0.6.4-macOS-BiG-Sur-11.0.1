@@ -1,4 +1,6 @@
-# Dell-Optiplex-7040-OpenCore-0.6.4-macOS-BiG-Sur-11.0.1
+# Dell-Optiplex-7040
+  OpenCore-0.6.4
+  macOS-BiG-Sur-11.0.1
 
 Successfully Installed BiG Sur on Dell Optiplex 7040 
 
@@ -21,6 +23,9 @@ Successfully Installed BiG Sur on Dell Optiplex 7040
 •Graphics auto to intel HD
 
 Apply Save setting and Exit.
+
+*I Created my self {SSDT-PLUG.aml and USB-Rest.aml} and also USB-Port.kext 
+Fully Supported macOS Big Sur 11.0.1
 
 
 °UEFI Variables
